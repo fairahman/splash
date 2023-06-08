@@ -11,7 +11,7 @@ export default function Hero() {
           
           <p className="py-6">Get real-time, accurate metrics from your Kubernetes cluster.  See CPU and Memory usage, Add multiple Clusters, and more.</p>
           <div className="flex justify-start pl-10">
-            <a href ='https://github.com/oslabs-beta/Fathom-for-Kubernetes/tree/mvpBranch'><button className="btn btn-primary">Get Started</button></a>
+            <a href ='https://github.com/oslabs-beta/Fathom-for-Kubernetes/tree/mvpBranch' target = "_blank"><button className="btn btn-primary">Get Started</button></a>
           </div>
         </div>
       </div>
