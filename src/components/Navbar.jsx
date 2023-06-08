@@ -21,7 +21,7 @@ import Home from '../pages/Home'
         <ul className="text-navFontColor text-2xl menu menu-horizontal px-1">
            <li><Link to = '/'><button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-md">Home</button></Link></li> 
           <li><Link to = '/docs'> <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-md">Docs</button></Link></li>
-          <li><Link to = '/contact'><button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-md">Conctacts</button></Link></li>
+          <li><Link to = '/contact'><button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-md">Contacts</button></Link></li>
         </ul>
       </div>
     </div>
